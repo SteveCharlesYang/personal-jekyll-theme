@@ -134,16 +134,16 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/welcometocat.png"
+  - image: "/img/welcometocat.png"
     date: "October 2016 - Today"
     description: "Accepted by UESTC."
   - image: "/img/inspectocat.jpg"
     date: "October 2014 - December 2015"
     description: "Did something related to internet security."
-  - image: "/img/timeline/spidertocat.jpg"
+  - image: "/img/timeline/spidertocat.png"
     date: "January 2013 - July 2015"
     description: "Attended OI team and learnt C++,PHP,Java,html,etc."
-  - image: "/img/minertocat.jpg"
+  - image: "/img/minertocat.png"
     date: "January 2013"
     description: "Started a Minecraft server."
   - image: "/img/timeline/baracktocat.jpg"
