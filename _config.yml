@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg2.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,8 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "To be or not to be, that is a question."
+  - text: "Pleasure for the beautiful body,but Pain for the beautiful Soul."
+  - text: "Let's get one thing straight. I'm not."
+  - text: "愿此间 山有木兮卿有意 昨夜星辰恰似你"
   - text: "苟利国家生死以，岂因祸福避趋之。"
 
 me-img: "/img/charles.jpeg"
