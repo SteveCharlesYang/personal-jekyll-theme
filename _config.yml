@@ -134,12 +134,22 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/welcometocat.png"
     date: "October 2016 - Today"
-    description: "Student in UESTC."
+    description: "Accepted by UESTC."
+  - image: "/img/inspectocat.jpg"
+    date: "October 2014 - December 2015"
+    description: "Did something related to internet security."
+  - image: "/img/timeline/spidertocat.jpg"
+    date: "January 2013 - July 2015"
+    description: "Attended OI team and learnt C++,PHP,Java,html,etc."
+  - image: "/img/minertocat.jpg"
+    date: "January 2013"
+    description: "Started a Minecraft server."
   - image: "/img/timeline/baracktocat.jpg"
-    date: "October 2013 - June 2016"
-    description: "Student in High School."
+    date: "Summer 2012"
+    description: "Coded for the first time."
+
 
 # First image of the Timeline
 
