@@ -122,13 +122,13 @@ paginate: 5
 email-share: True
 fb-share: True
 twitter-share: True
-linkedin-share: True
+linkedin-share: False
 reddit-share: True
 google-plus-share: True
 tumblr-share: True
-pinterest-share: True
+pinterest-share: False
 pocket-share: True
-vkontakte-share: True
+vkontakte-share: False
 
 disqus-shortname: "CharlesYang"
 
