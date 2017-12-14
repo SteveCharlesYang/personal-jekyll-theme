@@ -139,8 +139,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/saketocat.png"
+    date: "December 2017"
+    description: "Rebuild his blog as 0x7f."
   - image: "/img/welcometocat.png"
-    date: "October 2016 - Today"
+    date: "September 2016"
     description: "Accepted by UESTC."
   - image: "/img/inspectocat.jpg"
     date: "October 2014 - December 2015"
