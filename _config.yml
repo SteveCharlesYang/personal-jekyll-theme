@@ -174,7 +174,7 @@ email: "Charles@aic.ac.cn"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Charles超懒的，文章后面也就只能写点这些东西。Charles is too lazy to write something.."
+author_blurb: "Charles超懒的，文章后面也就只能写点这些东西。  Charles is too lazy to write something.."
 author_blurb_image: "/img/author.png"
 
 ##################
